@@ -1,0 +1,7 @@
+.env
+.env.production
+.env.backup
+node_modules/
+/.fleet
+/.idea
+/.vscode
