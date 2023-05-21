@@ -1,9 +1,9 @@
-import { SingleProduct } from "./SingleProduct";
+import { SingleProduct } from './SingleProduct';
 
 function App() {
 	return (
 		<>
-			<SingleProduct/>
+			<SingleProduct />
 		</>
 	);
 }
