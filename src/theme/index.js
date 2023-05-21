@@ -1,6 +1,6 @@
 import { createTheme } from '@mui/material/styles';
 
-import colors from './colors';
+import colors from './theme.module.scss';
 import getThemePalette from './palette';
 import getTypographyTheme from './typography';
 
