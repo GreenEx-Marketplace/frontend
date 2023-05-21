@@ -1,7 +1,9 @@
+import { SingleProduct } from "./SingleProduct";
+
 function App() {
 	return (
 		<>
-			<h1>Hello Wordl!</h1>
+			<SingleProduct/>
 		</>
 	);
 }
