@@ -1,9 +1,10 @@
 # [GreenEx Market Place](https://greenex-marketplace.netlify.app/)
 Siguiendo uno de los requisitos del Hackaton de New Relic el cual es el de generar una aplicación [ODS](https://www.undp.org/es/sustainable-development-goals) (Desarrollo Sostenible)
 
-Decidimos optar por el Objetivo 12 **PRODUCCIÓN Y CONSUMO RESPONSABLES**
+Decidimos optar por el Objetivo 12, **PRODUCCIÓN Y CONSUMO RESPONSABLES**
 
-**GreenEx** es un marketplace sostenible en el que se listaran exclusivamente productos de empresas que se adhieran a prácticas de producción sostenible, la gente podrá ingresar y buscar los productos, la plataforma genera un rating de sostenibilidad para dar más visibilidad a estos productos,  teniendo como objetivo final incentivar consumo sostenible y la reducción de su huella de carbono
+**GreenEx** es un marketplace sostenible en el que se listaran exclusivamente productos de empresas que se adhieran a prácticas de producción sostenible, la gente podrá ingresar y buscar los productos
+La plataforma generara un rating de sostenibilidad para dar más visibilidad a estos productos,  teniendo como objetivo final incentivar consumo sostenible y la reducción de su huella de carbono.
 
 ## Wireframe del proyecto
 
